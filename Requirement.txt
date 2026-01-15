@@ -1,0 +1,15 @@
+tensorflow>=2.10.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+
+
+
+🧠 Why These Dependencies?
+Package	Purpose
+tensorflow	Deep learning framework (MobileNetV2)
+opencv-python	Webcam access & image processing
+numpy	Numerical array operations
+
+✔ These versions are stable
+✔ Compatible with MobileNetV2
+✔ Works on Windows / Linux
